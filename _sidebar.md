@@ -1,3 +1,3 @@
-# Daftar Isi
+# Buku
 
-[Home](README.md)
+- [Home](README.md)
