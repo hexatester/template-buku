@@ -1,3 +1,1 @@
-# Buku
-
-- [Home](README.md)
+- [Buku](README.md)
