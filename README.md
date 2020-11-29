@@ -9,11 +9,11 @@ Ini adalah template buku open source (non komersial) yang dapat dideploy ke [git
 ### Konten Penting
 
 ```md
-!> **Time** is money, my friend!
+!> **Semangat** belajar!
 ```
 
 Menjadi
-!> **Time** is money, my friend!
+!> **Semangat** belajar!
 
 ### Tips Umum
 
@@ -34,7 +34,11 @@ Menjadi
 <!-- Support percentage -->
 
 ![logo](https://docsify.js.org/_media/icon.svg ":size=10%")
+
+<!-- Support css class -->
 ![logo](https://docsify.js.org/_media/icon.svg ":class=someCssClass")
+
+<!-- Support css id -->
 ![logo](https://docsify.js.org/_media/icon.svg ":id=someCssId")
 ```
 
@@ -55,6 +59,14 @@ Menjadi
 
 </details>
 ```
+
+<details>
+<summary>Tugas Mandiri (Klik untuk melihat)</summary>
+
+- Abc
+- Abc
+
+</details>
 
 ### Link Cross-Origin
 
