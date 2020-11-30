@@ -4,6 +4,10 @@
 
 Ini adalah template buku open source (non komersial) yang dapat dideploy ke [github pages](https://pages.github.com/) dengan bantuan [docsify.js](https://docsify.js.org/)
 
+## Favicon
+
+Merubah favicon dengan mengganti file favicon.ico, generate favicon di [favicon.io](https://favicon.io/ ":crossorgin").
+
 ## Bantuan
 
 ### Konten Penting
@@ -13,6 +17,7 @@ Ini adalah template buku open source (non komersial) yang dapat dideploy ke [git
 ```
 
 Menjadi
+
 !> **Semangat** belajar!
 
 ### Tips Umum
@@ -22,6 +27,7 @@ Menjadi
 ```
 
 Menjadi
+
 ?> _TODO_ unit test
 
 ### Mengatur Gambar
