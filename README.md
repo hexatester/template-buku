@@ -4,6 +4,10 @@
 
 Ini adalah template buku open source (non komersial) yang dapat dideploy ke [github pages](https://pages.github.com/) dengan bantuan [docsify.js](https://docsify.js.org/)
 
+## Mulai
+
+Silahkan buat buku dari repo ini dengan [generate](https://github.com/hexatester/buku/generate).
+
 ## Favicon
 
 Merubah favicon dengan mengganti file favicon.ico, generate favicon di [favicon.io](https://favicon.io/ ":crossorgin").
