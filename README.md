@@ -6,7 +6,7 @@ Ini adalah template buku open source (non komersial) yang dapat dideploy ke [git
 
 ## Mulai
 
-Silahkan buat buku dari repo ini dengan [generate](https://github.com/hexatester/buku/generate).
+Silahkan buat buku dari repo ini dengan [generate](https://github.com/hexatester/template-buku/generate).
 
 ## Favicon
 
